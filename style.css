@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #d9e198;
+}
+
+
+footer {
+  background-color: #92933e;
+  border-top: 2px solid #5a5b24;
+
+  text-align: center;
+  /* Positions the footer at the bottom of the html element */
+  bottom: 10;
+}
+
+#logo {
+  width: 25%;
+}
