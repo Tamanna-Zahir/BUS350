@@ -20,3 +20,24 @@ footer {
 #logo {
   width: 25%;
 }
+
+a {
+  color: black;
+}
+
+.box {
+  display: flex;
+  justify-content: space-between;
+  /* Distributes space between and around content items */
+
+}
+
+.image-content {
+  margin-top: 50px;
+}
+.eligible{
+  width: 50%;
+}
+.bg-dark {
+  background-color: #002A4E !important; /* Using !important to override any existing styles */
+}
